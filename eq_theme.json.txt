@@ -1,0 +1,14 @@
+{
+  "name": "Earthquake Dark",
+  "dataColors": [
+    "#00d4b4",
+    "#f5a623",
+    "#ff4d1c",
+    "#6c63ff",
+    "#ff5fa0",
+    "#3d9aff"
+  ],
+  "background": "#080c18",
+  "foreground": "#dde4f0",
+  "tableAccent": "#00d4b4"
+}
